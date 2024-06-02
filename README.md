@@ -6,12 +6,21 @@ The real estate markets in Bangalore / Bengaluru, present an interesting opportu
 
 
 Columns:
+
 Area Type: Type of Plot
+
 Availability: Ready to Move or Not
+
 Location: Region of Bangalore
+
 Size: BHK
+
 Society: Colony in which the House is Present in
+
 Total Sq. Ft: Total Area
+
 Bath: Number of Bathrooms
+
 Balcony: Number of Balconies
+
 Price: Cost in Lakhs
